@@ -70,7 +70,7 @@ export const About3DCard: React.FC = () => {
         {/* Profile Image with frame & glow */}
         <div className="relative mb-6 rounded-2xl overflow-hidden aspect-square border border-white/10 shadow-2xl bg-gradient-to-b from-violet-900/30 to-slate-900/80">
           <img
-            src="faizanlogo.png"
+            src="../faizanlogo.png"
             alt="M Faizan Farid - Web Developer and Designer"
             className="w-full h-full object-cover object-top hover:scale-105 transition-transform duration-700"
             loading="lazy"
